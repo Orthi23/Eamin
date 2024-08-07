@@ -1,0 +1,704 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Himel OP'S IPTV", Himel OP'S IPTV
+https://video.twimg.com/ext_tw_video/1741065669851185152/pu/pl/GUrbDWkWzo_RpR0i.m3u8?variant_version=1&tag=12
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="LIVE EVENTS(Himel-OP)", T Sports Akash
+http://himelop-back.ddns.net:8080/hls/col12.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="LIVE EVENTS(Himel-OP)", Premier Sports 1 50 FPS
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/optv.m3u8?id=37451
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Sports", Astro SuperSport 4
+https://himel-op.top/Join-Telegram-@HimelOP_Official/zontv.m3u8?id=45426
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="LIVE EVENTS(Himel-OP)", Optus Sports 1 50 FPS
+https://himel-op.top/Join-Telegram-@HimelOP_Official/zontv.m3u8?id=45102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="LIVE EVENTS(Himel-OP)", Astro Cricket
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=206091
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEJC6CKSFnDu3fuj33SQi5UDzbTVyNIBiPciOKS4HTAaTELAPNuWj4YRc&s=10" group-title="LIVE EVENTS(Himel-OP)", Willow Cricket
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12161
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi", Somoy TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi",Ekhon TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ekhontv
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12110
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Bangladeshi",Gaan Bangla
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12077
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladeshi",Nexus TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NexusTelevisionLive
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladeshi", ATN Bangla
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=5687
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi", Asian TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladeshi", Bangla TV
+https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=34573
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/640px-Banglavision.svg.png" group-title="Bangladeshi", Banglavision HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/op.m3u8?id=721
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangladeshi", Channel 24
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@channel24digital
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladeshi", Bijoy TV
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11214
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangladeshi", Channel I HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ChanneliNews
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi", DBC News
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dbcnewstv
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi", Ekattor TV HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@EkattorTelevision
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi", Gazi TV HD 
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=98
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi", T Sports
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10432
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi", T Sports
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=23937
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi", Independent TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@IndependentTelevision
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangladeshi", Jamuna TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@JamunaTVbd
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi", Mohona TV HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12126
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladeshi", News 24 HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi", NTV BD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi", RTV HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@RtvNews
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7djBVYwQQ8puRypJMIXDpMIydpp4-EHDddA&usqp=CAU" group-title="Bangladeshi", SATV HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11204
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcprtb4LLvm4lzmEqYa9VDuaVtVxyrhI-arlVA5bYA&s" group-title="Hindi News", NDTV Hindi News
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ndtvindia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="Hindi News", Aaj Tak
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@aajtak
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Xp7KG9LkV10t4ppqs1tOjKhNzN9oB841tpR6QHhpLXz8mv8cs_juUxU&s=10" group-title="Hindi News", India TV News HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@IndiaTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/2560px-Zee_news.svg.png" group-title="Hindi News", Zee News
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@zeenews
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/2560px-Republic_Bharat_logo.svg.png" group-title="Hindi News", Republic Bharat
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@RepublicTVBharat
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="English News", Al Jazeera English
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@aljazeeraenglish
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/1200px-Republic_TV.svg.png" group-title="English News", Republic TV English
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@RepublicWorld
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png" group-title="English News", Times Now
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@TimesNow
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath (h)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11227
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla", Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD(h)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12119
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10932
+ 
+ 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=92
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24606
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=117
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha HD(h)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12101
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=116592
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24601
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD(h)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11154
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=119
+
+
+
+
+
+
+
+
+    
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment", Sony TV HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24574
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment", Sony TV HD(h)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24573
+
+
+
+                                       
+                
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment", Sony TV HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=193
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="Hindi Entertainment", &TV HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24583
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment", Colors HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24575
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment", Colors HD(c)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11635
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment", Colors HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=160
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment", Sony SAB HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24577
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment", Sony SAB HD(p)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11672
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment", Sony SAB HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=191
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment", Star Plus HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8159
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment", Star Plus HD Tata
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=902
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment", Star Plus HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=200
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi Entertainment", Star Bharat
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24585
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi Entertainment", Star Bharat
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=195
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest/scale-to-width-down/250?cb=20210520175932" group-title="Hindi Entertainment", Star Utsav
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=1236
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment", Zee TV HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10578
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment", Zee TV HD(p)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11694
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment", Zee TV HD(h)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24621
+
+
+
+
+                                            
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Movies", Colors Cineplex(p)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11711
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Movies", Colors Cineplex Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies", Star Gold HD(c)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/op.m3u8?id=390
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies", Star Gold HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD(p)
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11693
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8658
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=213
+
+
+
+
+
+                                                    
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="English Infotainment", Animal Planet HD 
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYDXt66tr8X1mdvW071CXveOsoOfrqi9qqg&usqp=CAU" group-title="English Infotainment", Discovery HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=58807
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="English Infotainment", Sony BBC Earth Hindi(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10601
+
+
+
+
+
+
+             
+                   
+                                                    
+                                                   
+
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="English Movies", Sony PIX(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=5404
+
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="English Movies", Sony PIX Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=189
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=198
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSport 1
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=16126
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSport 2
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19867
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSport 3
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=16127
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSport 4
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19875
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Premier Sports 1 HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2945
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Premier Sports 2 HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2947
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sky Sports Premier League
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=7708
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Super Sports Premier League
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=7708
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Super Sports LaLiga
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10745
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sky Sports Cricket 
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=8894
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro Cricket
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=206091
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="LIVE EVENTS(Himel-OP)", Super Cricket
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12167
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Fox 501 HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/zontv.m3u8?id=17331
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Willow HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23943
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", PTV Sports HD
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 1
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23564
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 2
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23565
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 3
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=148090
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 4
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=186630
+
+
+                                                    
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports", Sony Sports 5 HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=113
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports", Sony Sports 5 HD(p)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=22159
+                                 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports", Sony Sports 5 HD(h)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=105350
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Sports 1 HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=6474
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Sports 1 HD(c)
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=277343
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Sports 1 HD(h)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=289
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports", Sony Sports 2 HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=6058
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=2022102508450" group-title="Sports", Sony Sports 2 HD(c)
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=237213
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports", Sony Sports 2 HD(h)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=290
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Sports 3 HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=6906
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Sports 3 HD(p)
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=277345 
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Sports 3 HD(h)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=291
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png" group-title="LIVE EVENTS(Himel-OP)", Star Sports 1 HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12148 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjJv1IGeW0-EnScle0QmWlsAV4esnamMfz7rD0zmGeqOdhPvkFKHNqp4&s=10" group-title="LIVE EVENTS(Himel-OP)", Star Sports 1 Hindi HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12149
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160049" group-title="LIVE EVENTS(Himel-OP)", Star Sports 1 Tamil HD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12154
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="Sports", Star Sports 2 HD(c)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=7610
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="Sports", Star Sports 2 HD(h)
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=49568
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports", Star Sports Select 1 HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19895
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports", Star Sports Select 1 HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=299
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports", Star Sports Select 2 HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19899
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports", Star Sports Select 2 HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=300
+
+
+
+
+
+
+
+                   
+                                                    
+
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Music", MTV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=4029
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0HQDtkDCXBDxj_sq1MZKccOp27dns_6BZg&usqp=CAU" group-title="Music", MTV Beats
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23792
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Music
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Tahsan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Jhakkas
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemkQaa9Z9pjxg33kY8HcWZy-YDtZejME5Hg&usqp=CAU" group-title="Music", Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
+
+
+
+                    
+                   
+                                                    
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladeshi",Duronto
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids", Disney India 
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=19741
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids", Hungama TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=238963
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/2560px-Nick_Logo_2017.svg.png" group-title="Kids", Nick
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=205
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids", Sonic Hindi
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=207
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_OoMGcAbEnLiH_eV-UBYVF7EOL5uHcfQmQ&usqp=CAU" group-title="Kids", Cartoon Network
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony Yay
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=204
+
+
+
+
+
+
+
+
+
+
+
