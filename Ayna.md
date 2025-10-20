@@ -10,141 +10,141 @@ https://bongoflixbd.top/player.php?id=70e97db9-5a9e-4642-874e-af3d30ba9925
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" group-title="Channels",ATN Bangla
 https://bongoflixbd.top/player.php?id=9046949b-9847-4b5d-96c1-e82b0734444b
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" group-title="Channels",ETV
-https://bongoflixbd.top/stream.php?id=b3f0df76-15ba-4ede-a7de-bbaaf23a630e
+https://bongoflixbd.top/player.php?id=b3f0df76-15ba-4ede-a7de-bbaaf23a630e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" group-title="Channels",Maasranga TV
-https://bongoflixbd.top/stream.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934
+https://bongoflixbd.top/player.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" group-title="Channels",Deepto TV
-https://bongoflixbd.top/stream.php?id=0be12af9-e713-4c65-b4ed-b735793a0418
+https://bongoflixbd.top/player.php?id=0be12af9-e713-4c65-b4ed-b735793a0418
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" group-title="Channels",Somoy News TV
-https://bongoflixbd.top/stream.php?id=27ec4394-7640-4dab-abf8-6a48893dfdfe
+https://bongoflixbd.top/player.php?id=27ec4394-7640-4dab-abf8-6a48893dfdfe
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" group-title="Channels",T Sports HD
-https://bongoflixbd.top/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2
+https://bongoflixbd.top/player.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" group-title="Channels",Gazi TV
-https://bongoflixbd.top/stream.php?id=b1808fb2-8892-49dc-965e-d038e5334995
+https://bongoflixbd.top/player.php?id=b1808fb2-8892-49dc-965e-d038e5334995
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" group-title="Channels",Desh TV
-https://bongoflixbd.top/stream.php?id=dd8c50e9-5dad-4cb9-9df8-5763e95281ad
+https://bongoflixbd.top/player.php?id=dd8c50e9-5dad-4cb9-9df8-5763e95281ad
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ec66cdf9538da75b08112f9ae2f151bc" tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" group-title="Channels",Boishakhi TV
-https://bongoflixbd.top/stream.php?id=92890d5c-473a-454c-ad10-2c6c0c91062a
+https://bongoflixbd.top/player.php?id=92890d5c-473a-454c-ad10-2c6c0c91062a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" group-title="Channels",Channel 9
-https://bongoflixbd.top/stream.php?id=56f7abf3-1586-4f6d-9df2-1726ccb43779
+https://bongoflixbd.top/player.php?id=56f7abf3-1586-4f6d-9df2-1726ccb43779
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" group-title="Channels",Channel 24
-https://bongoflixbd.top/stream.php?id=89247cb9-3c3e-465c-bbc7-d444b0d65424
+https://bongoflixbd.top/player.php?id=89247cb9-3c3e-465c-bbc7-d444b0d65424
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" group-title="Channels",Asian TV
-https://bongoflixbd.top/stream.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02
+https://bongoflixbd.top/player.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a" tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" group-title="Channels",ATN News
-https://bongoflixbd.top/stream.php?id=a0a29f90-f7c2-4cc2-b0b4-667253585b84
+https://bongoflixbd.top/player.php?id=a0a29f90-f7c2-4cc2-b0b4-667253585b84
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" group-title="Channels",Independent TV
-https://bongoflixbd.top/stream.php?id=22f28ae5-8c15-4904-b9f6-70bbd94cbc43
+https://bongoflixbd.top/player.php?id=22f28ae5-8c15-4904-b9f6-70bbd94cbc43
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" group-title="Channels",SA TV
-https://bongoflixbd.top/stream.php?id=d07563b0-7580-4cbd-a7c9-e67535c0164a
+https://bongoflixbd.top/player.php?id=d07563b0-7580-4cbd-a7c9-e67535c0164a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe" tvg-id="0875f2c8-2043-499b-9472-2872412a6340" group-title="Channels",DBC News
-https://bongoflixbd.top/stream.php?id=0875f2c8-2043-499b-9472-2872412a6340
+https://bongoflixbd.top/player.php?id=0875f2c8-2043-499b-9472-2872412a6340
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868" tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" group-title="Channels",Ekhon TV
-https://bongoflixbd.top/stream.php?id=0579659b-2854-40d1-ad6a-69b70641ad17
+https://bongoflixbd.top/player.php?id=0579659b-2854-40d1-ad6a-69b70641ad17
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" group-title="Channels",News 24 BD
 https://bongoflixbd.top/stream.php?id=2b1a4340-2557-4d57-b77c-657bb30ce0c8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" tvg-id="9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c" group-title="Channels",Duronto TV
-https://bongoflixbd.top/stream.php?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c
+https://bongoflixbd.top/player.php?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" group-title="Channels",Bangla TV
-https://bongoflixbd.top/stream.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770
+https://bongoflixbd.top/player.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3" tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" group-title="Channels",Ekattor TV
-https://bongoflixbd.top/stream.php?id=1a7a1365-ae2c-470f-9fb2-25c6e83bb108
+https://bongoflixbd.top/player.php?id=1a7a1365-ae2c-470f-9fb2-25c6e83bb108
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" group-title="Channels",Jamuna TV
-https://bongoflixbd.top/stream.php?id=8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa
+https://bongoflixbd.top/player.php?id=8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" group-title="Channels",Mohona TV
-https://bongoflixbd.top/stream.php?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e
+https://bongoflixbd.top/player.php?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" group-title="Channels",NEXUS TV
-https://bongoflixbd.top/stream.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9
+https://bongoflixbd.top/player.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c" tvg-id="f7c89459-37bf-4129-904d-33b0a4c0d590" group-title="Channels",Bijoy TV
-https://bongoflixbd.top/stream.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590
+https://bongoflixbd.top/player.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" group-title="Channels",Global TV
-https://bongoflixbd.top/stream.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326
+https://bongoflixbd.top/player.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d93b76211f818fcce66e7f44119ce0be" tvg-id="c0480a4a-f066-4a20-9f7d-73bbd852260f" group-title="Channels",My TV
-https://bongoflixbd.top/stream.php?id=c0480a4a-f066-4a20-9f7d-73bbd852260f
+https://bongoflixbd.top/player.php?id=c0480a4a-f066-4a20-9f7d-73bbd852260f
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f" tvg-id="a108c4e9-ccfa-42f2-8f8f-169ded28cca2" group-title="Channels",Ananda TV
-https://bongoflixbd.top/stream.php?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2
+https://bongoflixbd.top/player.php?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" group-title="Channels",A sports
-https://bongoflixbd.top/stream.php?id=a3d48c46-7902-45e2-abf9-0fab60c4d117
+https://bongoflixbd.top/player.php?id=a3d48c46-7902-45e2-abf9-0fab60c4d117
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73" tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" group-title="Channels",PTV Sports
-https://bongoflixbd.top/stream.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348
+https://bongoflixbd.top/player.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/498a04d4cec05dfc06989b7a0a84bcc1" tvg-id="93c7e57d-e666-488a-aec9-a339a7e5eb74" group-title="Channels",Fox Sports 2
-https://bongoflixbd.top/stream.php?id=93c7e57d-e666-488a-aec9-a339a7e5eb74
+https://bongoflixbd.top/player.php?id=93c7e57d-e666-488a-aec9-a339a7e5eb74
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75" tvg-id="e73ffada-f80a-4c23-9bd8-76142e41c389" group-title="Channels",Cartoon Network
-https://bongoflixbd.top/stream.php?id=e73ffada-f80a-4c23-9bd8-76142e41c389
+https://bongoflixbd.top/player.php?id=e73ffada-f80a-4c23-9bd8-76142e41c389
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8bf8ccf7bc01db3b8c4bc8576fb16f9d" tvg-id="a9791899-66f2-4b94-9521-c333498f7ab9" group-title="Channels",Disney JR
-https://bongoflixbd.top/stream.php?id=a9791899-66f2-4b94-9521-c333498f7ab9
+https://bongoflixbd.top/player.php?id=a9791899-66f2-4b94-9521-c333498f7ab9
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae" tvg-id="3830c379-539b-4e18-9943-9664574c850b" group-title="Channels",Nicktoons
-https://bongoflixbd.top/stream.php?id=3830c379-539b-4e18-9943-9664574c850b
+https://bongoflixbd.top/player.php?id=3830c379-539b-4e18-9943-9664574c850b
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5" tvg-id="c197b1bc-8909-4176-a50f-f855a4a51c1f" group-title="Channels",Nickjr
-https://bongoflixbd.top/stream.php?id=c197b1bc-8909-4176-a50f-f855a4a51c1f
+https://bongoflixbd.top/player.php?id=c197b1bc-8909-4176-a50f-f855a4a51c1f
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5a8ac139e9c791c675ded04dd7f90529" tvg-id="a51ed57c-a9cb-4dcb-9160-eb0726835c45" group-title="Channels",DUBAI SPORTS 1
-https://bongoflixbd.top/stream.php?id=a51ed57c-a9cb-4dcb-9160-eb0726835c45
+https://bongoflixbd.top/player.php?id=a51ed57c-a9cb-4dcb-9160-eb0726835c45
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/08ea1ff4e3ac6e32678e90d9e1fcff61" tvg-id="6e70514c-5f8e-483b-8c97-3c971b558a74" group-title="Channels",Talk Sport
-https://bongoflixbd.top/stream.php?id=6e70514c-5f8e-483b-8c97-3c971b558a74
+https://bongoflixbd.top/player.php?id=6e70514c-5f8e-483b-8c97-3c971b558a74
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d9db3f2407053944af13981bed771305" tvg-id="3167764d-9154-4dda-a0cc-713ca5dee5d3" group-title="Channels",KTV Sport Plus
-https://bongoflixbd.top/stream.php?id=3167764d-9154-4dda-a0cc-713ca5dee5d3
+https://bongoflixbd.top/player.php?id=3167764d-9154-4dda-a0cc-713ca5dee5d3
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/839a0449bfa64ce5ce33108db7ee6c37" tvg-id="79ce27a8-bbfa-4661-a6ff-e6006e1510a3" group-title="Channels",SPORTS FIRST TV
-https://bongoflixbd.top/stream.php?id=79ce27a8-bbfa-4661-a6ff-e6006e1510a3
+https://bongoflixbd.top/player.php?id=79ce27a8-bbfa-4661-a6ff-e6006e1510a3
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c2bc3e7024fddce26dfda56a01b34007" tvg-id="92f21f87-4dc5-4f5e-bc9b-3aec49c0a923" group-title="Channels",Adventure Sports TV
-https://bongoflixbd.top/stream.php?id=92f21f87-4dc5-4f5e-bc9b-3aec49c0a923
+https://bongoflixbd.top/player.php?id=92f21f87-4dc5-4f5e-bc9b-3aec49c0a923
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e8fe46b5eefb932bed78ddb9c1417d4f" tvg-id="d774d6a3-906e-42b4-b21a-9090b533a1b1" group-title="Channels",Marquee Sports Network
-https://bongoflixbd.top/stream.php?id=d774d6a3-906e-42b4-b21a-9090b533a1b1
+https://bongoflixbd.top/player.php?id=d774d6a3-906e-42b4-b21a-9090b533a1b1
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0a6bd46071b90d697a9dde4239e3bdd9" tvg-id="0e1fb643-581b-40c5-bb62-1277a6a75ebf" group-title="Channels",MORE THEN SPORTS TV
-https://bongoflixbd.top/stream.php?id=0e1fb643-581b-40c5-bb62-1277a6a75ebf
+https://bongoflixbd.top/player.php?id=0e1fb643-581b-40c5-bb62-1277a6a75ebf
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a54e1bf56b063bb84fd41783d5102b67" tvg-id="e0fe84eb-7d80-468c-8b1a-80fcaabf5629" group-title="Channels",ORIGIN SPORTS
-https://bongoflixbd.top/stream.php?id=e0fe84eb-7d80-468c-8b1a-80fcaabf5629
+https://bongoflixbd.top/player.php?id=e0fe84eb-7d80-468c-8b1a-80fcaabf5629
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0f77c53e551681aa684cc17483c3ee2c" tvg-id="3c332dd0-4b54-417a-a310-75d5b70a16c5" group-title="Channels",SHARJHA SPORTS TV
-https://bongoflixbd.top/stream.php?id=3c332dd0-4b54-417a-a310-75d5b70a16c5
+https://bongoflixbd.top/player.php?id=3c332dd0-4b54-417a-a310-75d5b70a16c5
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f861fcc2ab5cbd79237ceebf0f33e36" tvg-id="d49b0b2b-0132-4fd8-be49-88145477ee1d" group-title="Channels",Sports Grid
-https://bongoflixbd.top/stream.php?id=d49b0b2b-0132-4fd8-be49-88145477ee1d
+https://bongoflixbd.top/player.php?id=d49b0b2b-0132-4fd8-be49-88145477ee1d
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/71eeb40f82edb2a3c28fbfc8d79ecd71" tvg-id="6f4426c7-e48d-4b57-9747-4e0af8cc0365" group-title="Channels",Tsport 7
-https://bongoflixbd.top/stream.php?id=6f4426c7-e48d-4b57-9747-4e0af8cc0365
+https://bongoflixbd.top/player.php?id=6f4426c7-e48d-4b57-9747-4e0af8cc0365
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/195f5fde901dc4167245853f67eb043b" tvg-id="538b24c3-9493-44d5-be7c-482b51734f2c" group-title="Channels",Xtream Sports
-https://bongoflixbd.top/stream.php?id=538b24c3-9493-44d5-be7c-482b51734f2c
+https://bongoflixbd.top/player.php?id=538b24c3-9493-44d5-be7c-482b51734f2c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2379c1a7c685f7ca6a096bbf1c95aab1" tvg-id="f6096a6f-9891-4bfc-98d8-ea20ea1388fe" group-title="Channels",Islam TV
-https://bongoflixbd.top/stream.php?id=f6096a6f-9891-4bfc-98d8-ea20ea1388fe
+https://bongoflixbd.top/player.php?id=f6096a6f-9891-4bfc-98d8-ea20ea1388fe
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f71f649abc51984f09076ef6ee5c0d0c" tvg-id="596e39ca-a957-4029-bbc6-55e89dc5d4d4" group-title="Channels",RTV Islam
-https://bongoflixbd.top/stream.php?id=596e39ca-a957-4029-bbc6-55e89dc5d4d4
+https://bongoflixbd.top/player.php?id=596e39ca-a957-4029-bbc6-55e89dc5d4d4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/95f5bd4eef3bf5b0ed0bc1d6953dfdd5" tvg-id="63b750d3-73e9-4e8a-b04b-6c79bbcd4f13" group-title="Channels",ABC 7 Bay
-https://bongoflixbd.top/stream.php?id=63b750d3-73e9-4e8a-b04b-6c79bbcd4f13
+https://bongoflixbd.top/player.php?id=63b750d3-73e9-4e8a-b04b-6c79bbcd4f13
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a9517064cd265264a1e94945be044152" tvg-id="50e2fe7f-fa1d-40ee-b37d-c19a992ed97c" group-title="Channels",ABC News
-https://bongoflixbd.top/stream.php?id=50e2fe7f-fa1d-40ee-b37d-c19a992ed97c
+https://bongoflixbd.top/player.php?id=50e2fe7f-fa1d-40ee-b37d-c19a992ed97c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/03b7f51535cc1bfe3f0fbfc6693ce601" tvg-id="5031a2f5-324e-4e3d-91b2-d16385052dd2" group-title="Channels",ABC News NY
-https://bongoflixbd.top/stream.php?id=5031a2f5-324e-4e3d-91b2-d16385052dd2
+https://bongoflixbd.top/player.php?id=5031a2f5-324e-4e3d-91b2-d16385052dd2
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/61d90e98d83e80bfea23c6b54d50d8e2" tvg-id="12467e84-4c98-4a15-841d-61852f4a8a42" group-title="Channels",Amiricans Voice News
-https://bongoflixbd.top/stream.php?id=12467e84-4c98-4a15-841d-61852f4a8a42
+https://bongoflixbd.top/player.php?id=12467e84-4c98-4a15-841d-61852f4a8a42
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/29420483e1d1a686555efbfa4f7fb9f8" tvg-id="140905b7-dfdf-4e51-aaf5-6fd132773fbe" group-title="Channels",BEK TV News
-https://bongoflixbd.top/stream.php?id=140905b7-dfdf-4e51-aaf5-6fd132773fbe
+https://bongoflixbd.top/player.php?id=140905b7-dfdf-4e51-aaf5-6fd132773fbe
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/21844d114180cc501b70cee5102d3177" tvg-id="5a010510-7f4f-491e-9f74-8438d5154202" group-title="Channels",Sports Connect
-https://bongoflixbd.top/stream.php?id=5a010510-7f4f-491e-9f74-8438d5154202
+https://bongoflixbd.top/player.php?id=5a010510-7f4f-491e-9f74-8438d5154202
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5" tvg-id="2be13775-7176-4b90-98d7-04c90ffe3b5a" group-title="Channels",CNN
-https://bongoflixbd.top/stream.php?id=2be13775-7176-4b90-98d7-04c90ffe3b5a
+https://bongoflixbd.top/player.php?id=2be13775-7176-4b90-98d7-04c90ffe3b5a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9879197f1b6f27df923832cd06e82adb" tvg-id="4f059328-a08e-41c0-aa0e-fb11eb69da7e" group-title="Channels",DW News
-https://bongoflixbd.top/stream.php?id=4f059328-a08e-41c0-aa0e-fb11eb69da7e
+https://bongoflixbd.top/player.php?id=4f059328-a08e-41c0-aa0e-fb11eb69da7e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f4390c1bba69689aba959b0ca52505c3" tvg-id="369ffecf-00a9-49a9-864d-a8f45c7ef6db" group-title="Channels",NHK World
-https://bongoflixbd.top/stream.php?id=369ffecf-00a9-49a9-864d-a8f45c7ef6db
+https://bongoflixbd.top/player.php?id=369ffecf-00a9-49a9-864d-a8f45c7ef6db
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4a87c14e67270d043613800c5d7b6251" tvg-id="4ca61a59-e0e2-4566-94fb-055ef46dac9e" group-title="Channels",Bloomberg TV
-https://bongoflixbd.top/stream.php?id=4ca61a59-e0e2-4566-94fb-055ef46dac9e
+https://bongoflixbd.top/player.php?id=4ca61a59-e0e2-4566-94fb-055ef46dac9e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/487a661d04d34a99f04873e0a0d4af55" tvg-id="fb22d339-2a01-4d88-b2af-8d5c9999bbe5" group-title="Channels",BBC America
-https://bongoflixbd.top/stream.php?id=fb22d339-2a01-4d88-b2af-8d5c9999bbe5
+https://bongoflixbd.top/player.php?id=fb22d339-2a01-4d88-b2af-8d5c9999bbe5
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" group-title="Channels",BTV NATIONAL HD
-https://bongoflixbd.top/stream.php?id=a0e6e9b6-b20b-4f54-82d6-881bef762cfd
+https://bongoflixbd.top/player.php?id=a0e6e9b6-b20b-4f54-82d6-881bef762cfd
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" group-title="Channels",Aakaash Bangla TV
-https://bongoflixbd.top/stream.php?id=ed1ad924-f9f2-4302-97df-987bffb2b32e
+https://bongoflixbd.top/player.php?id=ed1ad924-f9f2-4302-97df-987bffb2b32e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667" tvg-id="8dc64f21-7dc8-4a41-a583-ddec9f112aeb" group-title="Channels",R Plus
-https://bongoflixbd.top/stream.php?id=8dc64f21-7dc8-4a41-a583-ddec9f112aeb
+https://bongoflixbd.top/player.php?id=8dc64f21-7dc8-4a41-a583-ddec9f112aeb
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5acec30ce56099ac991cc2ed289aa920" tvg-id="28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77" group-title="Channels",R Plus Gold
-https://bongoflixbd.top/stream.php?id=28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77
+https://bongoflixbd.top/player.php?id=28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79" tvg-id="3aa4d27d-91e1-4afe-a6b5-de35beefae4f" group-title="Channels",Rupshi Bangla
-https://bongoflixbd.top/stream.php?id=3aa4d27d-91e1-4afe-a6b5-de35beefae4f
+https://bongoflixbd.top/player.php?id=3aa4d27d-91e1-4afe-a6b5-de35beefae4f
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558" tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" group-title="Channels",Sangeet Bangla
-https://bongoflixbd.top/stream.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4
+https://bongoflixbd.top/player.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a4026bfc5928a4abd66c10a5b8d07eba" tvg-id="c8080032-034e-4f04-b1ee-0847a6e62a41" group-title="Channels",News Time Bangla
-https://bongoflixbd.top/stream.php?id=c8080032-034e-4f04-b1ee-0847a6e62a41
+https://bongoflixbd.top/player.php?id=c8080032-034e-4f04-b1ee-0847a6e62a41
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c" tvg-id="7141c05b-97cd-4dd1-9584-423c7a5ce13d" group-title="Channels",Republic Bangla
-https://bongoflixbd.top/stream.php?id=7141c05b-97cd-4dd1-9584-423c7a5ce13d
+https://bongoflixbd.top/player.php?id=7141c05b-97cd-4dd1-9584-423c7a5ce13d
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9abc522e7d57971c09e6a7c62714a09d" tvg-id="f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6" group-title="Channels",TV 9 Bangla
-https://bongoflixbd.top/stream.php?id=f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6
+https://bongoflixbd.top/player.php?id=f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8f72b7b45026c70cf2dd23aa187f5d45" tvg-id="71b599fa-1284-46c3-a2de-9eaab38d74de" group-title="Channels",Zee 24 Ghanta
 https://bongoflixbd.top/stream.php?id=71b599fa-1284-46c3-a2de-9eaab38d74de
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458" tvg-id="247cf723-3c1d-47bc-b765-64da2623a297" group-title="Channels",News India 24x7
