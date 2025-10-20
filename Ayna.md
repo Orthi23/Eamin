@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" group-title="Channels",Channel I
-https://bongoflixbd.top/stream.php?id=20714fd4-dc3c-46d6-924f-3038d61f027c
+https://bongoflixbd.top/player.php?id=20714fd4-dc3c-46d6-924f-3038d61f027c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" group-title="Channels",NTV
-https://bongoflixbd.top/stream.php?id=1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d
+https://bongoflixbd.top/player.php?id=1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" group-title="Channels",Bangla Vision
-https://bongoflixbd.top/stream.php?id=21e75798-3b6a-4214-9d93-b3fecaa4e700
+https://bongoflixbd.top/player.php?id=21e75798-3b6a-4214-9d93-b3fecaa4e700
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" group-title="Channels",RTV
-https://bongoflixbd.top/stream.php?id=70e97db9-5a9e-4642-874e-af3d30ba9925
+https://bongoflixbd.top/player.php?id=70e97db9-5a9e-4642-874e-af3d30ba9925
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" group-title="Channels",ATN Bangla
-https://bongoflixbd.top/stream.php?id=9046949b-9847-4b5d-96c1-e82b0734444b
+https://bongoflixbd.top/player.php?id=9046949b-9847-4b5d-96c1-e82b0734444b
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" group-title="Channels",ETV
 https://bongoflixbd.top/stream.php?id=b3f0df76-15ba-4ede-a7de-bbaaf23a630e
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" group-title="Channels",Maasranga TV
